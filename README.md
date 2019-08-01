@@ -11,3 +11,6 @@ Path değişkenlerine ekleyelim ffmpeg'i
 
 downloaded klasörüne dönüşecekleri
 converted kısmındada dönüşenler olacaktır.
+
+sonuç:
+![dönüşüm işlemi](https://github.com/m3T3-HaN/ffmpeg.audio.convert/blob/master/sonuc.PNG?raw=true)
